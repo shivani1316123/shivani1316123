@@ -131,12 +131,6 @@ I’m an Application Support professional transitioning into **Cloud Engineering
 
 ---
 
-## 🎯 Career Objective
-
-To transition into a **Cloud Engineer / DevOps Engineer** role where I can combine my production support experience with cloud infrastructure, automation, monitoring, and deployment practices to build reliable and scalable systems.
-
----
-
 ## 🤝 Connect With Me
 
 <p>
