@@ -4,9 +4,7 @@
 
 📍 Mumbai, India | 💼 3+ Years of Application Support Experience
 
-I’m an Application Support professional transitioning into **Cloud Engineering & DevOps**, with hands-on experience in production troubleshooting, incident management, SQL, and application monitoring.
-
-Currently working at **Bureau Veritas**, I’m expanding my skills by building AWS cloud infrastructure, automating deployments, and implementing high-availability solutions using Terraform, Ansible, and Nginx.
+I’m an Application Support professional transitioning into **Cloud Engineering & DevOps**, with hands-on experience in production troubleshooting, incident management, SQL, and application monitoring. I’m expanding my skills by building AWS cloud infrastructure, automating deployments, and implementing high-availability solutions using Terraform, Ansible, and Nginx.
 
 * ☁️ Exploring AWS Cloud Architecture
 * 🏗️ Automating infrastructure with Terraform
@@ -50,7 +48,6 @@ Currently working at **Bureau Veritas**, I’m expanding my skills by building A
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ### 🐧 Operating Systems, Scripting & Version Control
@@ -67,7 +64,6 @@ Currently working at **Bureau Veritas**, I’m expanding my skills by building A
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
   <img src="https://img.shields.io/badge/SMAX-Ticketing-555555?style=for-the-badge" />
@@ -78,16 +74,9 @@ Currently working at **Bureau Veritas**, I’m expanding my skills by building A
 
 ## 💼 Professional Experience
 
-### 🏢 Application Support Analyst — Bureau Veritas
+### 🏢 Application Support Analyst — Bureau Veritas - Present
 
-*Environment Services | Marine Offshores, Testing & Certifications*
-
-* Supporting business applications and investigating application issues.
-* Performing initial troubleshooting and incident analysis.
-* Managing support tickets and coordinating with technical teams.
-* Contributing to application stability and business continuity.
-
-### 🏢 Application Support Engineer — Nucsoft Pvt. Ltd.
+### 🏢 Application Support Engineer — Nucsoft Pvt. Ltd. 
 
 *Client: Zurich Kotak General Insurance*
 
